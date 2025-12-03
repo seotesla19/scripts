@@ -1,0 +1,5 @@
+MySQL server hostname is: srv1365.hstgr.io
+MySQL database name : u145588169_tempatcuan 
+MySQL username : u145588169_tempatcuan 
+Password : Y#OsU9~v 
+Remote MySQL : u145588169_tempatcuan
